@@ -1,0 +1,14 @@
+# Edit backup files etc
+*.pyc
+*.py.bak
+*~
+.DS_Store
+.env
+
+# START SECTION Product modules
+/comms
+/dev_tools
+# END SECTION
+
+# START CUSTOM SECTION
+# END CUSTOM SECTION
